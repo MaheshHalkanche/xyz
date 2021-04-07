@@ -52,6 +52,7 @@ public class StudentDao {
 	            s.setCource(rs.getString(8));
 	            //s.setDateofbirth(rs.getString(7));
 	            //s.setCource(rs.getString(8));
+				// @Author Mahesh Halkanche
 
 	                
 	            return s;    
